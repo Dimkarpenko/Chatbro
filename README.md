@@ -1,4 +1,4 @@
-#Chatbro
+#T-Rex Run 3D
 ChatBro is a local network chat application with client and server parts
 
 #Server part
