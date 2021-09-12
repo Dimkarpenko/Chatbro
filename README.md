@@ -1,4 +1,4 @@
-# ChatBro
+# 💬ChatBro
 
 ChatBro is a local network chat application
 with server and client parts
