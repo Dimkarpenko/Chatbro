@@ -21,6 +21,10 @@ You can install ChatBro [here]
 
 ## Server part
 
+To launch the server part just open 'ChatBro - server' label.
+Then program will input port.
+Enter any free port
+
 ![image](https://user-images.githubusercontent.com/69617058/132984722-b622df55-dc56-4700-8da6-10d901a046bc.png)
 
 [//]: # (These are reference links used in the body of this note and get stripped out when the markdown processor does its job. There is no need to format nicely because it shouldn't be seen. Thanks SO - http://stackoverflow.com/questions/4823468/store-comments-in-markdown-syntax)
